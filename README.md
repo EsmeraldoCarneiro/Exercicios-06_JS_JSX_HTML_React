@@ -53,7 +53,7 @@ Durante os testes, o `React.StrictMode` (no `main.jsx`) foi desativado para evit
 
 ## 🚀 Como Executar o Repositório
 
-1. Clone o projeto: `git clone ...`
+1. Clone o projeto: `git clone https://github.com/EsmeraldoCarneiro/Exercicios-06_JS_JSX_HTML_React.git`
 2. Instale as dependências: `npm install`
 3. Execute o servidor de desenvolvimento: `npm run dev`
 
@@ -62,7 +62,3 @@ Durante os testes, o `React.StrictMode` (no `main.jsx`) foi desativado para evit
 **Desenvolvido por:** Esmeraldo Junior 👨‍💻
 
 *Analista e Desenvolvedor de Sistemas*
-
----
-
-**Este README fecha com chave de ouro essa rodada de Lifecycle! Gostaria de começar uma nova série sobre Hooks (Componentes de Função modernos) ou tem mais alguma atividade de classe em mente?**
